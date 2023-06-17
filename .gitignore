@@ -1,12 +1,11 @@
 # Generated code
-/telethon/_tl/fn/
-/telethon/_tl/*.py
-/telethon/_tl/alltlobjects.py
-/telethon/errors/_generated.py
+/telethon/tl/functions/
+/telethon/tl/types/
+/telethon/tl/alltlobjects.py
+/telethon/errors/rpcerrorlist.py
 
 # User session
 *.session
-sessions/
 /usermedia/
 
 # Builds and testing
@@ -21,4 +20,4 @@ __pycache__/
 /docs/
 
 # File used to manually test new changes, contains sensitive data
-/example*.py
+/example.py
